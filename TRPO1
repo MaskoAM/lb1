@@ -1,1 +1,17 @@
-
+<? xml version="1.0" encoding="UTF-8"?>
+<версия проекта="4">
+  <имя компонента="Кодировка">
+    <файл url="PROJECT" charset="UTF-8" />
+  </компонент>
+</проект><? xml version="1.0" encoding="UTF-8"?>
+<версия проекта="4">
+  <имя компонента="EntryPointsManager">
+    <entry_points версия="2.0" />
+  </компонент>
+  <имя компонента="Ключ проекта">
+    <имя параметра="состояние" значение="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </компонент>
+  <имя компонента="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <выходной url="файл://$PROJECT_DIR$/out" />
+  </компонент>
+</проект>
